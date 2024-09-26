@@ -5,4 +5,8 @@ inventor David Emery. It is the responsibility of the person using the informati
 to insure that patent rights of that patent are not violated.
 
 Qspice simulations that were created for design work of my AGD25.1 DIY Metal Detector
-can be found here along with circuit diagrams.
+can be found here along with proposed and as built circuit diagrams. This project is in the
+early stages of design work and sections added as soon as each stage is designed an
+simulation run.
+
+This is not a project for those who like low parts counts.
